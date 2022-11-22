@@ -1,7 +1,7 @@
 # SMI-reactJS-project
 ReactJs project for SMI tech. test
 
-##Note
+###Note
 
 1. please use `npm run dev` to start this app.
 
